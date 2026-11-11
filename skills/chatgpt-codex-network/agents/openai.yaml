@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChatGPT / Codex Network"
+  short_description: "Diagnose proxy, DNS and WebSocket failures safely"
+  default_prompt: "Use $chatgpt-codex-network to diagnose this ChatGPT or Codex connection failure and verify the smallest appropriate fix."

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.env
+.env.*
+auth.json
+providers.json
+hosts.yml
+*.log
+test-results/
+*.har
+*.saz
+*.pcap
+*.pcapng
+.DS_Store
+dist/
+windows-network.json
+macos-network.json
